@@ -34,3 +34,5 @@ if __name__ == '__main__':
  print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n')
  print(t)
  #print(type(t))
+ 
+ #test fine, not final product
